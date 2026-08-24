@@ -53,7 +53,7 @@
 
 <div align="center">
 
-!NADA
+Sei nada de programação, sou um merda.
 
 </div>
 
